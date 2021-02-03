@@ -2,7 +2,7 @@
   "name": "node-modules-cleaner",
 	"displayName": "node modules cleaner",
 	"description": "clean node_modules floder",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
