@@ -17,15 +17,12 @@
 	"contributes": {
 		"commands": [
 			{
-				"command": "node-modules-cleaner.helloWorld",
-				"title": "Hello World"
-			},
-			{
 				"command": "node-modules-cleaner.clean_node_modules",
 				"title": "Clean node_modules"
 			}
 		]
 	},
+	"publisher": "leemove",
 	"scripts": {
 		"vscode:prepublish": "yarn run package",
 		"compile": "webpack",
